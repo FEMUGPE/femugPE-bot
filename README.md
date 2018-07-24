@@ -33,5 +33,6 @@ O Front-End Meet-Up Group, _A.K.A [FEMUG](https://github.com/FEMUGPE/FEMUGPE)_, 
  - Facebook: https://bit.ly/2zTiQEp
 
 ## License
+>_Este repositório é uma versão [estável do bot](https://github.com/wesmelo/femugPE-bot) em 25/07/2018_
 
 MIT License © Wesley Melo
